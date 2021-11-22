@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing00">0dp</dimen>
+    <dimen name="spacing01">2dp</dimen>
+    <dimen name="spacing02">4dp</dimen>
+    <dimen name="spacing03">8dp</dimen>
+    <dimen name="spacing04">12dp</dimen>
+    <dimen name="spacing05">16dp</dimen>
+    <dimen name="spacing06">20dp</dimen>
+    <dimen name="spacing07">24dp</dimen>
+    <dimen name="spacing08">32dp</dimen>
+    <dimen name="spacing09">40dp</dimen>
+    <dimen name="spacing10">48dp</dimen>
+    <dimen name="spacing11">64dp</dimen>
+    <dimen name="spacing12">80dp</dimen>
+
+    <dimen name="act_pro_spinner_size">170dp</dimen>
+
+</resources>

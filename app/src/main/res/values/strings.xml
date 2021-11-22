@@ -1,0 +1,50 @@
+<!--
+  Copyright 2021 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">ComposeTest</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+
+    <!-- Enter Pin -->
+    <string name="txt_pin_cell_0">0</string>
+    <string name="txt_pin_cell_1">1</string>
+    <string name="txt_pin_cell_2">2</string>
+    <string name="txt_pin_cell_3">3</string>
+    <string name="txt_pin_cell_4">4</string>
+    <string name="txt_pin_cell_5">5</string>
+    <string name="txt_pin_cell_6">6</string>
+    <string name="txt_pin_cell_7">7</string>
+    <string name="txt_pin_cell_8">8</string>
+    <string name="txt_pin_cell_9">9</string>
+
+    <string name="content_desc_backspace">backspace</string>
+    <string name="content_desc_keyboard_arrow_down">hide keyboard</string>
+
+    <string name="txt_current_passcode">Enter your current passcode to proceed</string>
+    <string name="txt_cannot_remember_reset_passcode">Can\'t remember your passcode?</string>
+    <string name="txt_reset_this_app">Reset this app</string>
+    <string name="txt_avoid_pin_pattern">Avoid common patterns, eg. 1\ufeff1\ufeff1\ufeff1\ufeff1\ufeff1, 1\ufeff2\ufeff3\ufeff4\ufeff5\ufeff6</string>
+
+    <string name="txt_pin_entry_1">Set a new 6-digit App; passcode</string>
+    <string name="txt_pin_entry_2">Great! Re-enter your App; passcode to confirm.</string>
+
+    <string name="general_error_message">Oops, something went wrong. Please try again later.</string>
+    <string name="txt_pin_not_secure_enough">Passcode cannot be a common pattern. Use something else.</string>
+    <string name="txt_pin_entry_error">The re-entered passcode is not the same. Try again.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txt_spinner_verifying">Verifying...</string>
+
+</resources>
